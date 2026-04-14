@@ -399,4 +399,4 @@ python -m review_text_csv_stepwise.cli run-all \
 
 ---
 
-*LG CX 프로젝트 · 2025*
+*LG CX 프로젝트 · 2026*
